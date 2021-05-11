@@ -1,0 +1,28 @@
+/* .allstatus .grid1 {
+    display: block;
+    background-color: #00b39b !important;
+    color: #fff;
+}
+.allstatus .grid1 .col-2{
+    background: #00b39b;
+    color: #fff;
+    display: flex;
+    flex-wrap: inherit;
+    justify-content: space-around;
+    /* padding-block: 00px; */
+    /* align-items: stretch;
+    padding-top: 30px;
+    align-content: space-evenly; 
+    position: relative;
+    padding-inline-end: 122px;
+}   */
+/* .allstatus .grid1 .col-1{
+    padding-right: 10px;
+    padding-left: 10px;
+    display: block;
+    align-items: stretch;
+    margin-block-end: auto;
+}  */
+.mahmoud{
+    background-color: aqua;
+}

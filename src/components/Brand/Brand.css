@@ -1,0 +1,10 @@
+
+.list .brands__logos{
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+font-size: 0;
+width: 75%;
+list-style: none;
+color: #00b39b;
+}
